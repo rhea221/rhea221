@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Design Engineering Student based in London, UK</h3>
 <img align="right" alt="Art" width='600' src="https://cdn.myportfolio.com/ff038621-cf6d-43d5-8829-4d5a1d91276b/97e439d0-a4a2-4a22-982c-8dc2f9ecb44b.png?h=7557f25bab0d4c25cb485de328f8731d">
 
-- 🎓 I'm studying towards a Masters of Engineering at Imperial College London
+- 🎓 I'm studying towards a Master of Engineering (MEng) at Imperial College London
 
 - 🔭 I’m currently working on [CHIP The Croupier](https://nayounpark21cfce.myportfolio.com/)
 
