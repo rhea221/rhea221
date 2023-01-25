@@ -4,7 +4,7 @@
 
 - 🎓 I'm studying for a Master of Engineering (MEng) at Imperial College London
 
-- 🔭 I’m currently working on [CHIP The Croupier](https://nayounpark21cfce.myportfolio.com/)
+- 🔭 I’m currently working on [CHIP The Croupier](https://nayounpark21cfce.myportfolio.com/chip)
 
 - 🌱 I’m currently learning **React Native**
 
