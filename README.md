@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 Check out my portfolio at [https://nayounpark21cfce.myportfolio.com/](https://nayounpark21cfce.myportfolio.com/)
+- 👨‍💻 Check out my portfolio at [rheapark.co.uk)
 
 - ✏️ Visit my LinkedIn at https://www.linkedin.com/in/rhea-park221/
 
